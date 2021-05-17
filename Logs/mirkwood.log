@@ -1,0 +1,78 @@
+2020-11-16 23:49:02,766 - IRCServer[7574] - INFO - Launching server mirkwood.nz...
+2020-11-16 23:49:02,770 - IRCServer[7574] - INFO - Configuring the server socket...
+2020-11-16 23:49:02,806 - IRCServer[7574] - INFO - Connecting to remote server rivendale.nz:34657...
+2020-11-16 23:49:02,842 - IRCServer[7574] - INFO - Listening for new connections on port 34571
+2020-11-16 23:49:02,855 - IRCServer[7574] - INFO - Received message "{'prefix': None, 'command': 'SERVER', 'params': ['mirkwood.nz', '1', '"Wood of Greenleaves"']}"
+2020-11-16 23:49:02,876 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['rivendale.nz', '1', '"Elronds House"']}"
+2020-11-16 23:49:02,877 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['mirkwood.nz', '2', '"Wood of Greenleaves"']}"
+2020-11-16 23:49:02,909 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['theshire.nz', '1', '"Home', 'of', 'the', 'hobbits"']}"
+2020-11-16 23:49:03,275 - IRCServer[7574] - INFO - Launching server lothlorien.nz...
+2020-11-16 23:49:03,279 - IRCServer[7574] - INFO - Configuring the server socket...
+2020-11-16 23:49:03,281 - IRCServer[7574] - INFO - Connecting to remote server mirkwood.nz:34571...
+2020-11-16 23:49:03,306 - IRCServer[7574] - INFO - Listening for new connections on port 6532
+2020-11-16 23:49:03,390 - IRCServer[7574] - INFO - Received message "{'prefix': None, 'command': 'SERVER', 'params': ['lothlorien.nz', '1', '"The Golden Wood"']}"
+2020-11-16 23:49:03,403 - IRCServer[7574] - INFO - Received message "{'prefix': 'mirkwood.nz', 'command': 'SERVER', 'params': ['lothlorien.nz', '2', '"The Golden Wood"']}"
+2020-11-16 23:49:03,409 - IRCServer[7574] - INFO - Received message "{'prefix': 'mirkwood.nz', 'command': 'SERVER', 'params': ['mirkwood.nz', '1', '"Wood of Greenleaves"']}"
+2020-11-16 23:49:03,415 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['lothlorien.nz', '3', '"The Golden Wood"']}"
+2020-11-16 23:49:03,416 - IRCServer[7574] - INFO - Received message "{'prefix': 'mirkwood.nz', 'command': 'SERVER', 'params': ['rivendale.nz', '1', '"Elronds', 'House"']}"
+2020-11-16 23:49:03,459 - IRCServer[7574] - INFO - Received message "{'prefix': 'mirkwood.nz', 'command': 'SERVER', 'params': ['theshire.nz', '1', '"Home']}"
+2020-11-16 23:49:03,795 - IRCServer[7574] - INFO - Launching server isengard.nz...
+2020-11-16 23:49:03,800 - IRCServer[7574] - INFO - Configuring the server socket...
+2020-11-16 23:49:03,811 - IRCServer[7574] - INFO - Connecting to remote server rivendale.nz:34657...
+2020-11-16 23:49:03,816 - IRCServer[7574] - INFO - Listening for new connections on port 23581
+2020-11-16 23:49:03,896 - IRCServer[7574] - INFO - Received message "{'prefix': None, 'command': 'SERVER', 'params': ['isengard.nz', '1', '"Orthanc"']}"
+2020-11-16 23:49:03,947 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['isengard.nz', '2', '"Orthanc"']}"
+2020-11-16 23:49:03,948 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['isengard.nz', '2', '"Orthanc"']}"
+2020-11-16 23:49:03,986 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['rivendale.nz', '1', '"Elronds House"']}"
+2020-11-16 23:49:03,988 - IRCServer[7574] - INFO - Received message "{'prefix': 'mirkwood.nz', 'command': 'SERVER', 'params': ['isengard.nz', '3', '"Orthanc"']}"
+2020-11-16 23:49:04,038 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['theshire.nz', '1', '"Home', 'of', 'the', 'hobbits"']}"
+2020-11-16 23:49:04,057 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['mirkwood.nz', '1', '"Wood', 'of', 'Greenleaves"']}"
+2020-11-16 23:49:04,068 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['lothlorien.nz', '2', '"The', 'Golden', 'Wood"']}"
+2020-11-16 23:49:04,326 - IRCServer[7574] - INFO - Launching server minastirith.nz...
+2020-11-16 23:49:04,388 - IRCServer[7574] - INFO - Configuring the server socket...
+2020-11-16 23:49:04,413 - IRCServer[7574] - INFO - Connecting to remote server theshire.nz:7552...
+2020-11-16 23:49:04,419 - IRCServer[7574] - INFO - Listening for new connections on port 7653
+2020-11-16 23:49:04,424 - IRCServer[7574] - INFO - Received message "{'prefix': None, 'command': 'SERVER', 'params': ['minastirith.nz', '1', 'Tower']}"
+2020-11-16 23:49:04,489 - IRCServer[7574] - INFO - Received message "{'prefix': 'theshire.nz', 'command': 'SERVER', 'params': ['minastirith.nz', '2', 'Tower']}"
+2020-11-16 23:49:04,491 - IRCServer[7574] - INFO - Received message "{'prefix': 'theshire.nz', 'command': 'SERVER', 'params': ['theshire.nz', '1', '"Home of the hobbits"']}"
+2020-11-16 23:49:04,513 - IRCServer[7574] - INFO - Received message "{'prefix': 'theshire.nz', 'command': 'SERVER', 'params': ['rivendale.nz', '1', '"Elronds', 'House"']}"
+2020-11-16 23:49:04,514 - IRCServer[7574] - INFO - Received message "{'prefix': 'theshire.nz', 'command': 'SERVER', 'params': ['mirkwood.nz', '2', '"Wood', 'of', 'Greenleaves"']}"
+2020-11-16 23:49:04,516 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['minastirith.nz', '3', 'Tower']}"
+2020-11-16 23:49:04,516 - IRCServer[7574] - INFO - Received message "{'prefix': 'theshire.nz', 'command': 'SERVER', 'params': ['lothlorien.nz', '3', '"The', 'Golden', 'Wood"']}"
+2020-11-16 23:49:04,539 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['minastirith.nz', '3', 'Tower']}"
+2020-11-16 23:49:04,547 - IRCServer[7574] - INFO - Received message "{'prefix': 'theshire.nz', 'command': 'SERVER', 'params': ['isengard.nz', '2', '"Orthanc"']}"
+2020-11-16 23:49:04,597 - IRCServer[7574] - INFO - Received message "{'prefix': 'mirkwood.nz', 'command': 'SERVER', 'params': ['minastirith.nz', '4', 'Tower']}"
+2020-11-16 23:49:04,855 - IRCServer[7574] - INFO - Launching server osgiliath.nz...
+2020-11-16 23:49:04,859 - IRCServer[7574] - INFO - Configuring the server socket...
+2020-11-16 23:49:04,889 - IRCServer[7574] - INFO - Connecting to remote server minastirith.nz:7653...
+2020-11-16 23:49:04,917 - IRCServer[7574] - INFO - Listening for new connections on port 24357
+2020-11-16 23:49:04,926 - IRCServer[7574] - INFO - Received message "{'prefix': None, 'command': 'SERVER', 'params': ['osgiliath.nz', '1', '"Citadel of the Stars"']}"
+2020-11-16 23:49:04,983 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['osgiliath.nz', '2', '"Citadel of the Stars"']}"
+2020-11-16 23:49:04,983 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['minastirith.nz', '1', 'Tower']}"
+2020-11-16 23:49:05,032 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['theshire.nz', '1', '"Home', 'of', 'the', 'hobbits"']}"
+2020-11-16 23:49:05,034 - IRCServer[7574] - INFO - Received message "{'prefix': 'theshire.nz', 'command': 'SERVER', 'params': ['osgiliath.nz', '3', '"Citadel of the Stars"']}"
+2020-11-16 23:49:05,040 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['rivendale.nz', '1', '"Elronds']}"
+2020-11-16 23:49:05,156 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['osgiliath.nz', '4', '"Citadel of the Stars"']}"
+2020-11-16 23:49:05,158 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['osgiliath.nz', '4', '"Citadel of the Stars"']}"
+2020-11-16 23:49:05,159 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['mirkwood.nz', '2', '"Wood']}"
+2020-11-16 23:49:05,231 - IRCServer[7574] - INFO - Received message "{'prefix': 'mirkwood.nz', 'command': 'SERVER', 'params': ['osgiliath.nz', '5', '"Citadel of the Stars"']}"
+2020-11-16 23:49:05,255 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['lothlorien.nz', '3', '"The']}"
+2020-11-16 23:49:05,320 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['isengard.nz', '2', '"Orthanc"']}"
+2020-11-16 23:49:05,360 - IRCServer[7574] - INFO - Launching server barad-dur.nz...
+2020-11-16 23:49:05,370 - IRCServer[7574] - INFO - Configuring the server socket...
+2020-11-16 23:49:05,374 - IRCServer[7574] - INFO - Connecting to remote server minastirith.nz:7653...
+2020-11-16 23:49:05,381 - IRCServer[7574] - INFO - Listening for new connections on port 23579
+2020-11-16 23:49:05,389 - IRCServer[7574] - INFO - Received message "{'prefix': None, 'command': 'SERVER', 'params': ['barad-dur.nz', '1', '"the Dark Tower"']}"
+2020-11-16 23:49:05,438 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['barad-dur.nz', '2', '"the Dark Tower"']}"
+2020-11-16 23:49:05,440 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['barad-dur.nz', '2', '"the Dark Tower"']}"
+2020-11-16 23:49:05,441 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['minastirith.nz', '1', 'Tower']}"
+2020-11-16 23:49:05,491 - IRCServer[7574] - INFO - Received message "{'prefix': 'theshire.nz', 'command': 'SERVER', 'params': ['barad-dur.nz', '3', '"the Dark Tower"']}"
+2020-11-16 23:49:05,506 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['theshire.nz', '1', '"Home', 'of', 'the', 'hobbits"']}"
+2020-11-16 23:49:05,523 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['rivendale.nz', '1', '"Elronds']}"
+2020-11-16 23:49:05,524 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['barad-dur.nz', '4', '"the Dark Tower"']}"
+2020-11-16 23:49:05,524 - IRCServer[7574] - INFO - Received message "{'prefix': 'rivendale.nz', 'command': 'SERVER', 'params': ['barad-dur.nz', '4', '"the Dark Tower"']}"
+2020-11-16 23:49:05,535 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['mirkwood.nz', '2', '"Wood']}"
+2020-11-16 23:49:05,593 - IRCServer[7574] - INFO - Received message "{'prefix': 'mirkwood.nz', 'command': 'SERVER', 'params': ['barad-dur.nz', '5', '"the Dark Tower"']}"
+2020-11-16 23:49:05,596 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['lothlorien.nz', '3', '"The']}"
+2020-11-16 23:49:05,665 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['isengard.nz', '2', '"Orthanc"']}"
+2020-11-16 23:49:05,674 - IRCServer[7574] - INFO - Received message "{'prefix': 'minastirith.nz', 'command': 'SERVER', 'params': ['osgiliath.nz', '1', '"Citadel', 'of', 'the', 'Stars"']}"
